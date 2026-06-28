@@ -1,4 +1,4 @@
-# 
+# VIP CCleaner plugins para Mac OS | Turbo CCleaner plugins para PC Windows. Con seguimiento de eventos y limpieza de archivos basura — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
